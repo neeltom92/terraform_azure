@@ -1,3 +1,3 @@
 # terraform_azure
 
-this repo containts basic azure terraform templates
+this repo contains basic azure terraform templates
